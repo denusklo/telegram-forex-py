@@ -1,1 +1,0 @@
-# telegram-forex-py
