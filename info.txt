@@ -1,0 +1,15 @@
+up docker:
+docker-compose up -d --no-deps --build fastapi-telegram-bot
+
+telegram cred:
+https://my.telegram.org/apps
+21770556
+3acefa840a8a4205ad6d7440e0b2dfd8
+
+
+
+requirement:
+- able to listen to multiple channel, get past signal from previous history
+- setup postgresql to store training data (message from channels history message) 
+- has local llama or other gpt llm trained to process the text to accurate signal
+- ai-processed signal then pass to trading bot for excecuttion (mql)

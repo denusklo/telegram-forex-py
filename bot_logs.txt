@@ -1,0 +1,262 @@
+[2024-10-07 17:00:19] Starting to listen to channel...
+[2024-10-07 17:00:19] Last 5 messages from the channel:
+[2024-10-07 17:00:19] - +76pips DONE Fly! TP1 Hit! 
+
+❤️
+[2024-10-07 17:00:19] - 
+[2024-10-07 17:00:19] - +100pips done rocket! TP2 Hit again!
+#QualitySetups as always guys!
+[2024-10-07 17:00:19] - 
+[2024-10-07 17:00:19] - Capy ask Sell
+Gold Drop to TP3
+
+Capy ask Buy
+Gold Fly to TP3
+
+Enjoy guys! Monday Blues ya 💙
+[2024-10-07 17:00:19] Now listening for new messages...
+[2024-10-07 17:00:46] Listening task was cancelled.
+[2024-10-07 17:00:46] Stopped listening to channel.
+[2024-10-07 17:00:57] Starting to listen to channel...
+[2024-10-07 17:00:58] Last 5 messages from the channel:
+[2024-10-07 17:00:58] - +76pips DONE Fly! TP1 Hit! 
+
+❤️
+[2024-10-07 17:00:58] - 
+[2024-10-07 17:00:58] - +100pips done rocket! TP2 Hit again!
+#QualitySetups as always guys!
+[2024-10-07 17:00:58] - 
+[2024-10-07 17:00:58] - Capy ask Sell
+Gold Drop to TP3
+
+Capy ask Buy
+Gold Fly to TP3
+
+Enjoy guys! Monday Blues ya 💙
+[2024-10-07 17:00:58] Now listening for new messages...
+[2024-10-07 17:02:10] Listening task was cancelled.
+[2024-10-07 17:02:10] Stopped listening to channel.
+[2024-10-07 17:02:15] Starting to listen to channel...
+[2024-10-07 17:02:15] Last 5 messages from the channel:
+[2024-10-07 17:02:15] - +76pips DONE Fly! TP1 Hit! 
+
+❤️
+[2024-10-07 17:02:15] - 
+[2024-10-07 17:02:15] - +100pips done rocket! TP2 Hit again!
+#QualitySetups as always guys!
+[2024-10-07 17:02:15] - 
+[2024-10-07 17:02:15] - Capy ask Sell
+Gold Drop to TP3
+
+Capy ask Buy
+Gold Fly to TP3
+
+Enjoy guys! Monday Blues ya 💙
+[2024-10-07 17:02:15] Now listening for new messages...
+[2024-10-07 17:02:57] Listening task was cancelled.
+[2024-10-07 17:02:57] Stopped listening to channel.
+[2024-10-07 17:08:45] Starting to listen to channel...
+[2024-10-07 17:08:45] Error in listen_to_channel: Cannot find any entity corresponding to "-1002171977566"
+[2024-10-07 17:08:45] Stopped listening to channel.
+[2024-10-07 17:09:05] Starting to listen to channel...
+[2024-10-07 17:09:05] Error in listen_to_channel: Cannot find any entity corresponding to "-1002171977566"
+[2024-10-07 17:09:05] Stopped listening to channel.
+[2024-10-07 17:09:20] Starting to listen to channel...
+[2024-10-07 17:09:20] Error in listen_to_channel: Cannot find any entity corresponding to "1002171977566"
+[2024-10-07 17:09:20] Stopped listening to channel.
+[2024-10-07 17:09:59] Starting to listen to channel with ID: -1002171977566
+[2024-10-07 17:09:59] Last 5 messages from the channel:
+[2024-10-07 17:09:59] - delta is not picking those moves. something is odd here with those longs now. seems like there is no whales longing btc anymore - since we liquidated this 64500 levels.
+[2024-10-07 17:09:59] - longs are trapped on whole range in this zone - this is fishy to me.
+[2024-10-07 17:09:59] - To me when i see delta stall at 1k net longs in market it aint enough to hold it
+[2024-10-07 17:09:59] - ```🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨 4,000 BTC ($253,092,450) transfered from Unknown to Binance```
+[TX - link](https://www.blockchain.com/btc/tx/29b1d462fc7136377d8d2195b8a0f34ef0a8d4e34a209ba76ee5c5cf3bc72c9d)  @WhaleBotAlerts
+[2024-10-07 17:09:59] - Cut Solana at 5% profit - just in case.
+[2024-10-07 17:09:59] Now listening for new messages...
+[2024-10-07 17:11:24] Listening task was cancelled.
+[2024-10-07 17:11:24] Stopped listening to channel.
+[2024-10-07 17:12:20] Starting to listen to channel with ID: -1001212253166
+[2024-10-07 17:12:20] Last 5 messages from the channel:
+[2024-10-07 17:12:20] - 又来骗人了？
+[2024-10-07 17:12:20] - 暴跌了
+[2024-10-07 17:12:20] - 前面就是拉高为了出货😂
+[2024-10-07 17:12:20] - 追涨的又晾在山顶
+[2024-10-07 17:12:20] - 骗什么？跌了呀
+[2024-10-07 17:12:20] Now listening for new messages...
+[2024-10-07 17:13:57] Listening task was cancelled.
+[2024-10-07 17:13:57] Stopped listening to channel.
+[2024-10-07 17:14:10] Starting to listen to channel with ID: -1002171977566
+[2024-10-07 17:14:10] Last 5 messages from the channel:
+[2024-10-07 17:14:10] - longs are trapped on whole range in this zone - this is fishy to me.
+[2024-10-07 17:14:10] - To me when i see delta stall at 1k net longs in market it aint enough to hold it
+[2024-10-07 17:14:10] - ```🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨 4,000 BTC ($253,092,450) transfered from Unknown to Binance```
+[TX - link](https://www.blockchain.com/btc/tx/29b1d462fc7136377d8d2195b8a0f34ef0a8d4e34a209ba76ee5c5cf3bc72c9d)  @WhaleBotAlerts
+[2024-10-07 17:14:10] - Cut Solana at 5% profit - just in case.
+[2024-10-07 17:14:10] - someone started to eat those top longs again. Im staying this position - i got feeling that we will have another 100+% gain from it
+[2024-10-07 17:14:10] Now listening for new messages...
+[2024-10-07 17:15:15] Listening task was cancelled.
+[2024-10-07 17:15:15] Stopped listening to channel.
+[2024-10-07 17:15:18] Starting to listen to channel with ID: -1001938292155
+[2024-10-07 17:15:19] Last 5 messages from the channel:
+[2024-10-07 17:15:19] - 回國 I  P网络专线定制 稳定  独享9T
+[2024-10-07 17:15:19] - None
+[2024-10-07 17:15:19] - None
+[2024-10-07 17:15:19] - 河北鸭子
+[2024-10-07 17:15:19] - 小哥哥 阿姨喷水了💦 好痒 潮喷💦💦💦 想要
+[2024-10-07 17:15:19] Now listening for new messages...
+[2024-10-07 17:15:44] New message received: 狠货
+[2024-10-07 17:16:04] New message received: 狠货
+[2024-10-07 17:21:31] Listening task was cancelled.
+[2024-10-07 17:21:31] Stopped listening to channel.
+[2024-10-07 17:22:15] Starting to listen to channel with ID: -1002171977566
+[2024-10-07 17:22:15] Last 5 messages from the channel:
+[2024-10-07 17:22:15] - longs are trapped on whole range in this zone - this is fishy to me.
+[2024-10-07 17:22:15] - To me when i see delta stall at 1k net longs in market it aint enough to hold it
+[2024-10-07 17:22:15] - ```🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨 4,000 BTC ($253,092,450) transfered from Unknown to Binance```
+[TX - link](https://www.blockchain.com/btc/tx/29b1d462fc7136377d8d2195b8a0f34ef0a8d4e34a209ba76ee5c5cf3bc72c9d)  @WhaleBotAlerts
+[2024-10-07 17:22:15] - Cut Solana at 5% profit - just in case.
+[2024-10-07 17:22:15] - someone started to eat those top longs again. Im staying this position - i got feeling that we will have another 100+% gain from it
+[2024-10-07 17:22:15] Now listening for new messages...
+[2024-10-07 17:22:40] Listening task was cancelled.
+[2024-10-07 17:22:40] Stopped listening to channel.
+[2024-10-07 17:22:50] Starting to listen to channel with ID: -1002008454120
+[2024-10-07 17:22:50] Last 5 messages from the channel:
+[2024-10-07 17:22:50] - +76pips DONE Fly! TP1 Hit! 
+
+❤️
+[2024-10-07 17:22:50] - 
+[2024-10-07 17:22:50] - +100pips done rocket! TP2 Hit again!
+#QualitySetups as always guys!
+[2024-10-07 17:22:50] - 
+[2024-10-07 17:22:50] - Capy ask Sell
+Gold Drop to TP3
+
+Capy ask Buy
+Gold Fly to TP3
+
+Enjoy guys! Monday Blues ya 💙
+[2024-10-07 17:22:50] Now listening for new messages...
+[2024-10-07 17:26:00] Listening task was cancelled.
+[2024-10-07 17:26:00] Stopped listening to channel.
+[2024-10-07 17:26:06] Starting to listen to channel with ID: -1002008454120
+[2024-10-07 17:26:07] Fetched the last 15 messages from the channel
+[2024-10-07 17:26:07] 15th last message: Gold Sell Now - 2658.00
+[2024-10-07 17:26:07] Now listening for new messages...
+[2024-10-07 17:28:46] Listening task was cancelled.
+[2024-10-07 17:28:46] Stopped listening to channel.
+[2024-10-07 17:30:14]
+Starting to listen to channel with ID: -1002008454120
+[2024-10-07 17:30:14]
+Fetched the last 15 messages from the channel
+[2024-10-07 17:30:14]
+15th last message:
+Gold Sell Now - 2658.00
+[2024-10-07 17:30:14]
+Now listening for new messages...
+[2024-10-07 17:31:28]
+Listening task was cancelled.
+[2024-10-07 17:31:28]
+Stopped listening to channel.
+[2024-10-07 17:32:18] Starting to listen to channel with ID: -1002008454120
+[2024-10-07 17:32:18] Fetched the last 15 messages from the channel
+[2024-10-07 17:32:18] Last message: Gold Sell @ 2658.00 - 2664.00
+
+SL: 2665.50 (75pips)
+TP1: 60pips
+TP2: 100pips
+TP3: 150pips
+
+#No45pipsNoClaim
+*USE PROPER LOT SIZE & MARGIN ACCORDING TO YOUR RISK MANAGEMENT!*
+[2024-10-07 17:32:18] Now listening for new messages...
+[2024-10-07 17:53:38] Listening task was cancelled.
+[2024-10-07 17:53:38] Stopped listening to channel.
+[2024-10-07 17:54:59] Starting to listen to channel with ID: -1002008454120
+[2024-10-07 17:54:59] Fetched the last 15 messages from the channel
+[2024-10-07 17:54:59] Last message: Gold Sell @ 2658.00 - 2664.00
+
+SL: 2665.50 (75pips)
+TP1: 60pips
+TP2: 100pips
+TP3: 150pips
+
+#No45pipsNoClaim
+*USE PROPER LOT SIZE & MARGIN ACCORDING TO YOUR RISK MANAGEMENT!*
+[2024-10-07 17:54:59] Now listening for new messages...
+[2024-10-07 17:55:38] Listening task was cancelled.
+[2024-10-07 17:55:38] Stopped listening to channel.
+[2024-10-07 17:55:47] Starting to listen to channel with ID: -1002008454120
+[2024-10-07 17:55:47] Fetched the last 15 messages from the channel
+[2024-10-07 17:55:47] Last message: Gold Sell @ 2658.00 - 2664.00
+
+SL: 2665.50 (75pips)
+TP1: 60pips
+TP2: 100pips
+TP3: 150pips
+
+#No45pipsNoClaim
+*USE PROPER LOT SIZE & MARGIN ACCORDING TO YOUR RISK MANAGEMENT!*
+[2024-10-07 17:55:47] Now listening for new messages...
+[2024-10-07 17:56:34] Listening task was cancelled.
+[2024-10-07 17:56:34] Stopped listening to channel.
+[2024-10-07 17:56:38] Starting to listen to channel with ID: -1002008454120
+[2024-10-07 17:56:39] Fetched the last 15 messages from the channel
+[2024-10-07 17:56:39] Last message: Gold Sell @ 2658.00 - 2664.00
+
+SL: 2665.50 (75pips)
+TP1: 60pips
+TP2: 100pips
+TP3: 150pips
+
+#No45pipsNoClaim
+*USE PROPER LOT SIZE & MARGIN ACCORDING TO YOUR RISK MANAGEMENT!*
+[2024-10-07 17:56:39] {'pair': 'xauusd', 'action': 'sell', 'price_low': 2658.0, 'price_high': 2664.0, 'SL': '75.0pips', 'TP1': '60.0pips', 'TP2': '100.0pips', 'TP3': '150.0pips'}
+[2024-10-07 17:56:39] Now listening for new messages...
+[2024-10-07 17:57:41] Listening task was cancelled.
+[2024-10-07 17:57:41] Stopped listening to channel.
+[2024-10-07 17:58:48] Starting to listen to channel with ID: -1002008454120
+[2024-10-07 17:58:48] Fetched the last 15 messages from the channel
+[2024-10-07 17:58:48] Last message: 
+[2024-10-07 17:58:48] None
+[2024-10-07 17:58:48] Now listening for new messages...
+[2024-10-07 17:59:29] Listening task was cancelled.
+[2024-10-07 17:59:29] Stopped listening to channel.
+[2024-10-07 17:59:35] Starting to listen to channel with ID: -1002008454120
+[2024-10-07 17:59:35] Fetched the last 15 messages from the channel
+[2024-10-07 17:59:35] Last message: Gold Buy @ 2645.00 - 2639.00
+
+SL: 2637.50 (75pips)
+TP1: 60pips
+TP2: 100pips
+TP3: 150pips
+
+#No45pipsNoClaim
+*USE PROPER LOT SIZE & MARGIN ACCORDING TO YOUR RISK MANAGEMENT!*
+[2024-10-07 17:59:35] {'pair': 'xauusd', 'action': 'buy', 'price_low': 2645.0, 'price_high': 2639.0, 'SL': '75.0pips', 'TP1': '60.0pips', 'TP2': '100.0pips', 'TP3': '150.0pips'}
+[2024-10-07 17:59:35] Now listening for new messages...
+[2024-10-08 03:41:59] New message received: 
+[2024-10-08 03:41:59] None
+[2024-10-08 07:27:39] New message received: 
+[2024-10-08 07:27:39] None
+[2024-10-08 07:44:07] New message received: 
+[2024-10-08 07:44:07] None
+[2024-10-08 07:44:16] New message received: Gold Sell Now - 2635.00
+[2024-10-08 07:44:16] None
+[2024-10-08 07:44:47] New message received: Gold Sell @ 2635.50 - 2639.50
+
+SL: 2643.00 (75pips)
+TP1: 60pips
+TP2: 100pips
+TP3: 150pips
+
+#No45pipsNoClaim
+*USE PROPER LOT SIZE & MARGIN ACCORDING TO YOUR RISK MANAGEMENT!*
+[2024-10-08 07:44:47] {'pair': 'xauusd', 'action': 'sell', 'price_low': 2635.5, 'price_high': 2639.5, 'SL': '75.0pips', 'TP1': '60.0pips', 'TP2': '100.0pips', 'TP3': '150.0pips'}
+[2024-10-08 08:15:33] New message received: 
+[2024-10-08 08:15:33] None
+[2024-10-08 08:15:47] New message received: +45pips done! Set BE wait TP or can collect ❤️
+[2024-10-08 08:15:47] None
+[2024-10-08 08:21:39] New message received: TP1 Hit! +60pips done waterfall! ✅
+[2024-10-08 08:21:39] None
+[2024-10-08 08:38:19] Listening task was cancelled.
+[2024-10-08 08:38:19] Stopped listening to channel.
