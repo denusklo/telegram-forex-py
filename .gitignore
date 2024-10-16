@@ -164,5 +164,3 @@ cython_debug/
 session.session
 bot_logs.txt
 info.txt
-
-remove_files_from_history.sh

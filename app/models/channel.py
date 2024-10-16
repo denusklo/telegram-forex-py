@@ -1,36 +1,27 @@
-from sqlalchemy import Column, Integer, String, Float, DateTime
+from sqlalchemy import Column, Integer, String, DateTime
 from sqlalchemy.sql import func
 from app.db.database import Base
 from pydantic import BaseModel, ConfigDict
 from datetime import datetime
 
-class Trade(Base):
-    __tablename__ = "trades"
+class Channel(Base):
+    __tablename__ = "channels"
 
     id = Column(Integer, primary_key=True, index=True)
-    action = Column(String)
-    pair = Column(String)
-    price = Column(Float)
-    sl = Column(Float)  # Stop Loss
-    tp = Column(Float)  # Take Profit
+    channel_id = Column(String, unique=True, index=True)
+    name = Column(String)
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     updated_at = Column(DateTime(timezone=True), onupdate=func.now())
 
 # Pydantic models for API interactions
-class TradingSignal(BaseModel):
-    action: str
-    pair: str
-    price: float
-    sl: float
-    tp: float
+class ChannelCreate(BaseModel):
+    channel_id: str
+    name: str
 
-class TradeResponse(BaseModel):
+class ChannelResponse(BaseModel):
     id: int
-    action: str
-    pair: str
-    price: float
-    sl: float
-    tp: float
+    channel_id: str
+    name: str
     created_at: datetime
     updated_at: datetime
 
